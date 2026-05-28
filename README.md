@@ -78,8 +78,8 @@ PicsArt
   - Publicação no Instagram da Deplan
 
 ## Video sobre o Projeto
-
 - https://youtu.be/Td1WI3ZkBy8?si=_3nzgATfWTd7ESZv
+##
 
 ### Equipe
 
