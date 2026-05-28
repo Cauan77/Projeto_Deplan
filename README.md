@@ -79,6 +79,8 @@ PicsArt
 
 ## Video sobre o Projeto
 
+- https://youtu.be/Td1WI3ZkBy8?si=_3nzgATfWTd7ESZv
+
 ### Equipe
 
 -Este projeto foi desenvolvido em grupo, com cada integrante contribuindo para a produção, edição e organização do conteúdo visual da Deplan Descartáveis.
