@@ -60,6 +60,7 @@ PicsArt
 
 - Aplicativo de edição que permite aplicar filtros, efeitos e ajustes avançados nas imagens.
 
+
 ## Processo Criativo
 
   Captação das imagens dos produtos Deplan
@@ -75,6 +76,8 @@ PicsArt
   - Revisão e aprovação dos posts
         ↓
   - Publicação no Instagram da Deplan
+
+##Vídeo sobre o Projeto
 
 ### Equipe
 
