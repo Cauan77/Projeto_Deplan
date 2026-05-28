@@ -81,13 +81,13 @@ PicsArt
 -Este projeto foi desenvolvido em grupo, com cada integrante contribuindo para a produção, edição e organização do conteúdo visual da Deplan Descartáveis.
 ##
 
-Cauan Henrique Sanches Araujo - RA: 2526101168 
-Julia dos Santos Miranda - RA: 425202785
-Cristo Paulo Kiala Castelo - RA: 426104467 
-Ricardo Rabelo de Lima - RA: 426105246
-Gabriel Gundim De Oliveira - RA: 426106639
-Thales Miguel Oliveira Fernandes - RA: 426106043
-Gabriela Rodrigues Rincon - RA: 425200542 
-Vinícios Rodrigues Marques - RA: 426105363 
-Jefferson Farlon Miguel da Cruz - RA: 426105050 
-Wanderlick Dutra Bissoli - RA: 2526100199
+-Cauan Henrique Sanches Araujo - RA: 2526101168 
+-Julia dos Santos Miranda - RA: 425202785
+-Cristo Paulo Kiala Castelo - RA: 426104467 
+-Ricardo Rabelo de Lima - RA: 426105246
+-Gabriel Gundim De Oliveira - RA: 426106639
+-Thales Miguel Oliveira Fernandes - RA: 426106043
+-Gabriela Rodrigues Rincon - RA: 425200542 
+-Vinícios Rodrigues Marques - RA: 426105363 
+-Jefferson Farlon Miguel da Cruz - RA: 426105050 
+-Wanderlick Dutra Bissoli - RA: 2526100199
