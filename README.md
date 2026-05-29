@@ -1,4 +1,5 @@
-# Projeto Deplan — Gestão de Conteúdo para Instagram
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=39&pause=1000&color=2CBAF7&background=FFFFFF00&center=true&vCenter=true&width=1000&lines=Projeto+Deplan;Gest%C3%A3o+de+Conte%C3%BAdo+para+Instagram)](https://git.io/typing-svg)
+
 
 Criação de identidade visual e produção de posts para o Instagram da Deplan Descartáveis, com o objetivo de ampliar o reconhecimento de marca, engajamento e credibilidade no ambiente digital.
 
