@@ -37,9 +37,13 @@ O projeto nasce da necessidade de fortalecer a presença digital da marca, comun
 O principal objetivo deste projeto é:
 
 -Aumentar o reconhecimento da marca Deplan no ambiente digital
+
 -Construir credibilidade por meio de uma identidade visual consistente
+
 -Engajar o público-alvo com conteúdo de qualidade no Instagram
+
 -Apresentar os produtos de forma criativa, com imagens editadas que chamem atenção no feed
+
 -Padronizar a comunicação visual da empresa nas redes sociais
 
 
